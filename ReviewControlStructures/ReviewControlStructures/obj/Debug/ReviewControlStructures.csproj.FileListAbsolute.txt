@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\bin\Debug\ReviewControlStructures.exe.config
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\bin\Debug\ReviewControlStructures.exe
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\bin\Debug\ReviewControlStructures.pdb
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\obj\Debug\ReviewControlStructures.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\obj\Debug\ReviewControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\obj\Debug\ReviewControlStructures.exe
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\obj\Debug\ReviewControlStructures.pdb
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewControlStructures\ReviewControlStructures\obj\Debug\ReviewControlStructures.exe.config
