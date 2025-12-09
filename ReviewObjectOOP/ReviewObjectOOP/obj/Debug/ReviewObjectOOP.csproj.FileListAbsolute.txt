@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\bin\Debug\ReviewObjectOOP.exe.config
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\bin\Debug\ReviewObjectOOP.exe
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\bin\Debug\ReviewObjectOOP.pdb
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\obj\Debug\ReviewObjectOOP.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\obj\Debug\ReviewObjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\obj\Debug\ReviewObjectOOP.exe
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\obj\Debug\ReviewObjectOOP.pdb
+C:\Users\ACT-STUDENT\source\repos\PROCEDURAL-PROG\ReviewObjectOOP\ReviewObjectOOP\obj\Debug\ReviewObjectOOP.exe.config
